@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-    <div>
+    <div className=''>
     assets, components, datas, hooks, pages, redux, types, utils
     </div>
   )
